@@ -7,4 +7,4 @@ change again
 
 test develop branch
 
-git is a software, and it's cool.
+git is a good software , and it is cool.
